@@ -160,15 +160,3 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
-.button-clear, .button-draw {
-    background-color: #FFA500; /* Naranja brillante */
-    color: white; /* Texto blanco */
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    cursor: pointer;
-}
-
-.button-clear:hover, .button-draw:hover {
-    background-color: #FF8C00; /* Naranja quemado al pasar el mouse */
-}
